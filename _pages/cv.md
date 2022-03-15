@@ -42,5 +42,6 @@ Professional Activities
   * IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC) 
   * IEEE Wireless Communications and Networking Conference (WCNC)
   * IEEE International Symposium on Turbo Codes & Iterative Information Processing (ISTC)
+  * IEEE Vehicular Technology Conference (VTC)
   * IEEE International Conference on Wireless Communications and Signal Processing (WCSP)
   * IEEE/CIC International Conference on Communications in China (ICCC) 
