@@ -14,46 +14,33 @@ Education
 * B.S.  in Telecommunications Engineering, Xidian University, 2013
 * M.S.  in Informatioin and Telecommunications Engineering, Xidian University, 2016
 * Ph.D. in Communication and Information System, Xidian University, 2021
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-#Skills
-#======
-#* Skill 1
-#* Skill 2
-#  * Sub-skill 2.1
-#  * Sub-skill 2.2
-#  * Sub-skill 2.3
-#* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-#Talks
-#======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
-  
-Teaching
+Professional Activities
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* IEEE Member
+* Secretary and Founding Member of special interest group (SIG) for OTFS, IEEE ComSoc
+* Conference Technical Program Committee
+  * TPC member of IEEE Wireless Communications and Networking Conference (WCNC) 2022, Workshop on Integrated Sensing and Communications: Toward Future Dual-Functional Network, Austin, USA
+  * TPC Co-chair of IEEE International Conference on Communications in China 2021, Workshop on Orthogonal Time Frequency Space Modulation (OTFS) for Reliable High-mobility Communications, Xiamen, China
+  * TPC Co-chair of IEEE International Conference on Communication Technology 2021, Workshop on OTFS Modulation for Integrated Sensing and Communications, Tianjin, China
+  * TPC member of IEEE International Conference on Communications 2021, First Workshop on Orthogonal Time Frequency Space Modulation (OTFS) for 6G and Future High-mobility Communications, Montreal, Canada
+* Reviewer for Journals
+  * IEEE Journal on Selected Areas in Communications
+  * IEEE Transactions on Communications
+  * IEEE Transactions on Wireless Communications
+  * IEEE Transactions on Vehicular Technology
+  * IEEE Transactions on Network Science and Engineering
+  * IEEE Communication Letters
+  * IEEE Wireless Communication Letters
+  * IEEE China Communications
+  * IEEE Access
+* Reviewer for Conferences
+  * IEEE Global Communications Conference (Globecom)
+  * IEEE International Conference on Communications (ICC)
+  * IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+  * IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC) 
+  * IEEE Wireless Communications and Networking Conference (WCNC)
+  * IEEE International Symposium on Turbo Codes & Iterative Information Processing (ISTC)
+  * IEEE International Conference on Wireless Communications and Signal Processing (WCSP)
+  * IEEE/CIC International Conference on Communications in China (ICCC) 
