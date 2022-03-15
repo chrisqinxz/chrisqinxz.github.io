@@ -31,4 +31,4 @@ My research interests include:
 </ul>
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1c679e&w=a&t=n&d=rvMTQFEORcQs4AVWtIVoK6ghclOws8CSKxqlBN5Map8&co=ffffff'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6mvpb1Ly4MhQdRl6uSzi4pd20OMLKp9iFJrs_8CdZUc&cl=ffffff&w=a"></script>
