@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Shuangyang Li"
-  avatar           : "profile_Shuangyang1.png"
+  avatar           : #"profile_Shuangyang1.png"
   bio              : "Ph.D. candidate at Univeristy of New South Wales (UNSW)"
   location         : "Sydney, NSW"
   employer         : 
