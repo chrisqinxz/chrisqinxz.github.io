@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wenjie Li/William"
-  avatar           : "upenn_love.png"
-  bio              : "Ph.D. Student at Purdue University"
-  location         : "West Lafayette, IN"
+  name             : "Shuangyang Li"
+  avatar           : #"upenn_love.png"
+  bio              : "Ph.D. Student at University of New South Wales (UNSW)"
+  location         : "Sydney, NSW"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=4jlUpjEAAAAJ&hl=en"
-  email            : "li3549@purdue.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=ZNBcLIkAAAAJ&hl=en"
+  email            : "shuangyang.li@unsw.edu.au"
   uri              : 
   bitbucket        :
   codepen          :
@@ -92,12 +92,12 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "WilliamLwj"
+  github           : "shuangyang-li"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "wenjie-li-4b0808140"
+  linkedin         : #"wenjie-li-4b0808140"
   orcid            : 
   pinterest        :
   soundcloud       :
