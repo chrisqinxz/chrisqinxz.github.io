@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shuangyang Li"
+title                    : "Wenjie Li"
 title_separator          : "-"
-name                     : &name "Shuangyang Li"
-description              : &description "Ph.D. candidate at University of New South Wales (UNSW)"
-url                      : https://shuangyang-li.github.io/About/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Wenjie Li"
+description              : &description "Ph.D. Student at Purdue University"
+url                      : https://williamlwj.github.io/About/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shuangyang-li.github.io/About"
+repository               : "williamlwj.github.io/About"
 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shuangyang Li"
-  avatar           : #"profile_Shuangyang1.png"
-  bio              : "Ph.D. candidate at Univeristy of New South Wales (UNSW)"
-  location         : "Sydney, NSW"
+  name             : "Wenjie Li/William"
+  avatar           : "upenn_love.png"
+  bio              : "Ph.D. Student at Purdue University"
+  location         : "West Lafayette, IN"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=ZNBcLIkAAAAJ&hl=en"
-  email            : "shuangyang.li@unsw.edu.au"
+  googlescholar    : "https://scholar.google.com/citations?user=4jlUpjEAAAAJ&hl=en"
+  email            : "li3549@purdue.edu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -92,12 +92,12 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "shuangyang-li"
+  github           : "WilliamLwj"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : 
+  linkedin         : "wenjie-li-4b0808140"
   orcid            : 
   pinterest        :
   soundcloud       :
