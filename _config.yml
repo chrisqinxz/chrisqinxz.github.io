@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenjie Li"
+title                    : "Shuangyang Li"
 title_separator          : "-"
-name                     : &name "Wenjie Li"
-description              : &description "Ph.D. Student at Purdue University"
-url                      : https://williamlwj.github.io/About/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Shuangyang Li"
+description              : &description "Ph.D. Student at University of New South Wales (UNSW)"
+url                      : https://shuangyang-li.github.io/About/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "williamlwj.github.io/About"
 
