@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
-#About me
 ======
 I am a fourth year Ph. D. candidate at School of Electrical Engineering and Telecommunications in University of New South Wales (UNSW).
 
