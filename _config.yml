@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Shuangyang Li"
-  avatar           : #"upenn_love.png"
+  avatar           : "profile_Shuangyang1.png"
   bio              : "Ph.D. Student at University of New South Wales (UNSW)"
   location         : "Sydney, NSW"
   employer         : 
@@ -97,8 +97,9 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : #"wenjie-li-4b0808140"
-  orcid            : 
+  linkedin         : 
+  orcid            : https://orcid.org/0000-0002-9503-4865
+  researchgate     : https://www.researchgate.net/profile/Shuangyang-Li-2
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
