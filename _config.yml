@@ -10,17 +10,14 @@ locale                   : "en-US"
 title                    : "Shuangyang Li"
 title_separator          : "-"
 name                     : &name "Shuangyang Li"
-description              : &description "University of New South Wales (UNSW)"
-url                      : https://Shuangyang-Li.github.io/About/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Ph.D. candidate at University of New South Wales (UNSW)"
+url                      : https://shuangyang-li.github.io/About/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Shuangyang-Li.github.io/About"
+repository               : "shuangyang-li.github.io/About"
 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -31,7 +28,6 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
-    
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -52,16 +48,16 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : 
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter 
 facebook:
-  username               :
+  username               : 
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -77,45 +73,43 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : 
 
 
 # Site Author
 author:
   name             : "Shuangyang Li"
-  avatar           : "profile_Shuangyang.jpg"
-  bio              : "Ph.D. Student at University of New South Wales"
+  avatar           : "profile_Shuangyang.png"
+  bio              : "Ph.D. candidate at Univeristy of New South Wales (UNSW)"
   location         : "Sydney, NSW"
-  employer         :
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=ZNBcLIkAAAAJ&hl=en"
   email            : "shuangyang.li@unsw.edu.au"
-  researchgate     : "https://www.researchgate.net/profile/Shuangyang-Li-2?ev=hdr_xprf&_sg=RhOTSGl_CuCz5tglITbwWjdpzzvAvxis2r8DZtA5NosScPK3tAUjNGVl6gvZ7QCYWLDaiW__ddaUJ5noJQ2dmFu7"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
-  github           : "Shuangyang-Li"
+  github           : "shuangyang-li"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : 
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0002-9503-4865"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : 
 
 
 # Reading Files
@@ -130,23 +124,22 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
   - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
   - gulpfile.js
+  - LICENSE
   - log
   - node_modules
   - package.json
+  - Rakefile
+  - README
   - tmp
-  - vendor
 keep_files:
   - .git
   - .svn
@@ -245,7 +238,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -260,7 +253,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -310,3 +303,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-minimal
