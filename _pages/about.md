@@ -1,15 +1,16 @@
 ---
 permalink: /
 title: 
-excerpt: 
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About me
-======
+
+# <i class="fa fa-cog fa-fw"></i> About me #
+
 I am a fourth year Ph. D. candidate at School of Electrical Engineering and Telecommunications in University of New South Wales (UNSW).
 
 My research interests include:
