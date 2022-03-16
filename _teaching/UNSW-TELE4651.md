@@ -8,4 +8,4 @@ date: 2018-08-01
 location: "Sydney, Australia"
 ---
 
-I was a teaching assistant for this course, taking care of the related experiments and tutorials.
+I was a teaching assistant for this course from 2018 to 2020, taking care of the related experiments and tutorials.
