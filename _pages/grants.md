@@ -5,7 +5,7 @@ permalink: /grants/
 author_profile: true
 ---
 
-# <i class="fa fa-square-o fa-stack-2x"></i> Research Grants.
+# <i class="fa fa-square-o fa-stack-2x"></i> Research Grants
 
 ## Project Manager ##
   1. "Evaluate capacity gain from OTFS channel estimation/modulation based FDD MIMO and its scalability to MU-MIMO and Massive MIMO," Joint Project between University of New South Wales and Telstra. (from June 2021 to December 2021)  
@@ -15,5 +15,5 @@ author_profile: true
 
 
 ## Project Participant ##
-  1. "Bandwidth-Efficient Coded Modulation Technology for Integrated Space-Ground Networks with High Reliability,” National Natural Science Foundation of China with grant number 62171356.  (from 2021 to present)
+  1. "Bandwidth-Efficient Coded Modulation Technology for Integrated Space-Ground Networks with High Reliability,” National Natural Science Foundation of China with grant number 62171356. (from 2021 to present)  
   **Chief Investigator:** Professor [Baoming Bai](https://web.xidian.edu.cn/bmbai/index.html) 
