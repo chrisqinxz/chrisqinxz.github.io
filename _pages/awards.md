@@ -16,4 +16,4 @@ author_profile: true
 
 ---
 # <i class="fa fa-fw fa-trophy"></i>  Honors
-* Outstanding paper award, 2017 Chinese Insititude of Electrunics, information theory session (CIEIT 2017), Shenzhen, China.
+* Outstanding paper award, award by information theory session of Chinese Insititude of Electrunics in 2017 (CIEIT 2017), Shenzhen, China.
