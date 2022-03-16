@@ -9,3 +9,10 @@ author_profile: true
 
 * TELE 4651 - Wireless Communication Technologies, 2018-2020
 * TELE 4652 - Mobile and Satellite Communications, 2018-2020
+
+<!--
+{% include base_path %}
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+-->
