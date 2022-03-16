@@ -35,3 +35,22 @@ author_profile: true
   1. J. Zhang, B. Bai, **S. Li**, M. Zhu, and H. Li, “Tail-Biting Globally-Coupled LDPC Codes,” **IEEE Transactions on Communications**, vol. 67, no. 12, pp. 8206-8219, Dec. 2019.
   1. J. Zhang, B. Bai, M. Zhu, **S. Li**, and H. Li, “Protograph-based Globally-Coupled LDPC Codes over the Gaussian Channel with Burst Erasures,” **IEEE Access**, vol. 7, pp. 153853-153868, 2019.
 
+
+
+## Conference Papers ##
+  1.  S. Li, W. Yuan, J. Yuan, and Giuseppe Caire, “On the Potential of Spatially-Spread Orthogonal Time Frequency Space Modulation for ISAC Transmissions,” to appear in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, 2022. (Invited Paper)
+  1.   S. Li, W. Yuan, Z. Wei, R. He, B. Ai, B. Bai, and J. Yuan, “A Tutorial to Orthogonal Time Frequency Space Modulation for Future Wireless Communications,” in IEEE International Communication Conference in China (ICCC) Workshop, Xiamen, China, 2021. pp. 439-443.
+  1.   S. Li, J. Yuan, W. Yuan, Z. Wei, B. Bai, and D. W. K. Ng, “On the Performance of Coded OTFS Modulation over High-Mobility Channels,” in IEEE International Conference on Communications (ICC) Workshop, Montreal, Canada, 2021. pp. 1-6.
+  1.   S. Li, Z. Wei, W. Yuan, J. Yuan, B. Bai, and D. W. K. Ng, “On the Achievable Rates of Uplink NOMA with Asynchronized Transmission,” in IEEE Wireless Communications and Networking Conference (WCNC), Nanjing, China, 2021, pp. 1-7.
+  1.   S. Li, J. Yuan, and B. Bai, “Code based Channel Shortening for Faster-than-Nyquist Signaling,” in IEEE International Communication Conference (ICC). Dublin, Ireland, 2020, pp. 1-6.
+  1.   S. Li, J. Zhang, B. Bai, X. Ma, and J. Yuan, “Self-Superposition Transmission: A Novel Method for Enhancing Performance of Convolutional Codes,” in IEEE International Symposium on Turbo Codes & Iterative Information Processing (ISTC), Hong Kong, 2018, pp. 1-5.
+  1.   H. Wen, W. Yuan, and S. Li, “Downlink OTFS Non-Orthogonal Multiple Access Receiver Design based on Cross-Domain Detection” to appear in IEEE International Conference on Communications (ICC) Workshop, Seoul, 2022.
+  1.   R. Chong, S. Li, W. Yuan, and J. Yuan, “Outage Analysis for OTFS-based Single User and Multi-User Transmissions” to appear in IEEE International Conference on Communications (ICC) Workshop, Seoul, 2022.
+  1.  Y. K. Enku, B. Bai, S. Li, M. Liu, and I. N. Tiba, “Deep-Learning Based Signal Detection for MIMO-OTFS Systems” to appear in IEEE International Conference on Communications (ICC) Workshop, Seoul, 2022.    
+  1.  C. Liu, W. Yuan, S. Li, X. Liu, D. W. K. Ng, and Y. Li, “Predictive Beamforming for Integrated Sensing and Communication in Vehicular Networks: A Deep Learning Approach,” to appear in IEEE International Conference on Communications (ICC), Seoul, 2022.
+  1.  Z. Wei, W. Yuan, S. Li, J. Yuan, and D. W. K. Ng, “Performance Analysis and Window Design for Channel Estimation of OTFS Modulation,” in IEEE International Conference on Communications (ICC), Montreal, Canada, 2021, pp. 1-5.
+  1.   Z. Wei, W. Yuan, S. Li, J. Yuan, and D. W. K. Ng, “A New Off-grid Channel Estimation Method with Sparse Bayesian Learning for OTFS Systems,” in IEEE Global Communication Conference (GlobeCom), Madrid, Spain, 2021, pp. 1-7.
+  1.   W. Yuan, S. Li, Z. Wei, J. Yuan, and D. W. K. Ng, “Bypassing Channel Estimation for OTFS Transmission: An Integrated Sensing and Communication Solution,” in IEEE Wireless Communications and Networking Conference (WCNC) Workshop, Nanjing, China, 2021, pp. 1-6.
+  1.   B. Liu, S. Li, Y. Xie, and J. Yuan, “Deep Learning Assisted Sum-Product Detection Algorithm for Faster-than-Nyquist Signaling,” in IEEE Information Theory Workshop (ITW), Visby, Sweden, 2019, pp. 1-5.
+  1.   M. Liu, S. Li, Q. Li, and B. Bai, “Faster-than-Nyquist Signaling Based Adaptive Modulation and Coding,” in IEEE International Conference on Wireless Communications and Signal Processing (WCSP), Hangzhou, 2018, pp. 1-5.
+
