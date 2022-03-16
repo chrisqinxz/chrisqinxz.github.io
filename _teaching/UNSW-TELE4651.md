@@ -1,6 +1,6 @@
 ---
 title: "Telea4651 - Wireless Communication Technologies"
-collection: Teaching Assistant
+collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/UNSW-TELE4651
 venue: "University of New South Wales, School of Electrical Engineering and Telecommunications"
