@@ -5,5 +5,33 @@ permalink: /publications/
 author_profile: true
 ---
 # <i class="fa fa-fw fa-paste"></i> Papers. [[Google Scholar](https://scholar.google.com/citations?user=ZNBcLIkAAAAJ&hl=en)] #
+[* denotes the corresponding author]
 
+## Journal Papers ##
+  1. **S. Li**, Z. Wei, W. Yuan, J. Yuan, B. Bai, D. W. K. Ng, and L. Hanzo, ''Faster-than-Nyquist Asynchronous NOMA Outperforms Synchronous NOMA,'' to appear in IEEE Journal on Selected Areas in Communications, 2022.
+  *  **S. Li**, W. Yuan, C. Liu, Z. Wei, J. Yuan, B. Bai, and D. W. K. Ng, “A Novel ISAC Transmission Framework based on Spatially-Spread Orthogonal Time Frequency Space Modulation,” to appear in IEEE Journal on Selected Areas in Communications, 2022.
+  *  **S. Li**, W. Yuan, Z. Wei, J. Yuan, B. Bai, D. W. K. Ng, and Y. Xie, “Hybrid MAP and PIC detection for OTFS modulation,” IEEE Transactions on Vehicular Technology, vol. 70, no. 7, pp. 7193-7198, Jul. 2021.
+  *  **S. Li**, J. Yuan, W. Yuan, Z. Wei, B. Bai, and D. W. K. Ng, “Performance Analysis of Coded OTFS Systems over High-Mobility Channels,” IEEE Transactions on Wireless Communications, vol. 20, no. 9, pp. 6033-6048, Apr. 2021.
+  *   **S. Li**, W. Yuan, J. Yuan, B. Bai, D. W. K. Ng, and L. Hanzo, “Time-Domain vs. Frequency-Domain Equalization for FTN Signaling,” IEEE Transactions on Vehicular Technology, vol. 69, no. 8, pp. 9174-9179, Aug. 2020.
+  *   **S. Li**, J. Yuan, B. Bai, and N. Benvenuto, “Code Based Channel Shortening for Faster-than-Nyquist Signaling: Reduced-Complexity Detection and Code Design,” IEEE Transactions on Communications, vol. 68, no. 7, pp. 3996-4011, Jul. 2020.
+  *   **S. Li**, B. Bai, J. Zhou, P. Chen, and Z. Yu, “Reduced-Complexity Equalization for Faster-than-Nyquist Signaling: New methods Based on Ungerboeck Observation Model,” IEEE Transactions on Communications, vol. 66, no. 3, pp. 1190-1204, Mar. 2018.
+  *    **S. Li**, W. Yuan, Z. Wei, and J. Yuan, “Cross Domain Iterative Detection for Orthogonal Time Frequency Space Modulation,” to appear in IEEE Transactions on Wireless Communications, 2021.
+  *    **S. Li**, B. Bai, J. Zhou, Q. He, and Q. Li, “Superposition Coded Modulation based Faster-than-Nyquist Signaling,” Wireless Communications and Mobile Computing, vol. 2018, Article ID 4181626, 10 pages, 2018.
+  *    Z. Wei, W. Yuan, **S. Li**<sup>*</sup>, J. Yuan, and D. W. K. Ng, “Off-grid Channel Estimation with Sparse Bayesian Learning for OTFS Systems,” to appear in IEEE Transactions on Wireless Communications. 2022.
+  *    W. Yuan, **S. Li**<sup>*</sup>, Z. Wei, J. Yuan, and D. W. K. Ng, “Data-Aided Channel Estimation for OTFS Systems with A Superimposed Pilot and Data Transmission Scheme,” IEEE Wireless Communications Letters, vol. 10, no. 9, pp. 1954-1958, Sept. 2021.
+  *    B. Liu, **S. Li**<sup>*</sup> , Y. Xie, and J. Yuan, “A Novel Sum-Product Detection Algorithm for Faster-than-Nyquist Signaling: A Deep Learning Approach,” IEEE Transactions on Communications, vol. 69, no. 9, pp. 5975-5987, Sept. 2021.
+  *    R. Chong, **S. Li**<sup>*</sup>, J. Yuan, and D. W. K. Ng, “Achievable Rate Upper-Bounds of Uplink Multiuser OTFS Transmissions,” to appear in IEEE Wireless Communications Letters, 2022.
+  *    W. Yuan, **S. Li**<sup>*</sup>, L. Xiang, and D. W. K. Ng, “Distributed Estimation Framework for Beyond 5G Intelligent Vehicular Networks,” IEEE Open Journal of Vehicular Technology. vol. 1, pp. 190-214, Nov. 2020.
+  *    C. Liu, W. Yuan, **S. Li**, X. Liu, D. W. K. Ng, and Y. Li, “Learning-based Predictive Beamforming for Integrated Sensing and Communication in Vehicular Networks,” submitted to IEEE Journal on Selected Areas in Communications, 2022. (Major Revision).
+  *    Z. Tie, J. Shi, Z. Li, **S. Li**, and W. Liang, “Security Performance Analysis for An OTFS-based Joint Unicast-Multicast Streaming System,” submitted to IEEE Transactions on Communications, 2021. (Major Revision).
+  *    P. Kang, K. Cai, X. He, **S. Li**, and J. Yuan, “Generalized Mutual Information-Maximizing Quantized Decoding of LDPC Codes with Layered Scheduling,” submitted to IEEE Transactions on Vehicular Technology, 2021 (Major Revision).
+  *    M. Liu, **S. Li**, C. Zhang, B. Wang, B. Bai, “Coded Orthogonal Time Frequency Space Modulation,” ZTE Communications, vol. 19, no. 4, pp. 54-62, Dec. 2021.
+  *    Y. K. Enku, B. Bai, F. Wan, C. U. Guyo, I. N. Tiba, C. Zhang, and **S. Li**, “Two-dimensional Convolutional Neural Network based Signal Detection for OTFS Systems,” IEEE Wireless Communications Letters, vol. 10, no. 11, pp.2514-2518, Nov. 2021.
+  *    W. Yuan, Z. Wei, **S. Li**, J. Yuan, and D. W. K. Ng, “Integrated Radar Sensing and Communication-assisted Orthogonal Time Frequency Space Transmission for Vehicular Networks,” IEEE Journal of Selected Topics in Signal Processing, vol. 15, no. 6, pp. 1515-1528, Nov. 2021.
+  *    Z. Wei, W. Yuan, **S. Li**, J. Yuan, B. Ganesh, R. Hadani, and L. Hanzo, “Orthogonal Time-Frequency Space Modulation: A Promising Next Generation Waveform,” IEEE Wireless Communications, vol. 28, no. 4, pp. 136-144, Aug. 2021.
+  *    Z. Wei, W. Yuan, **S. Li**, J. Yuan, and D. W. K. Ng, “Transmitter and Receiver Window Designs for Orthogonal Time Frequency Space Modulation,” IEEE Transactions on Communications, vol. 69, no. 4, pp. 2207-2223, Apr. 2021.
+  *     D. Shi, W. Yuan, **S. Li**, N. Wu, and D. W. K. Ng, “Cycle-Slip Detection and Correction for Carrier Phase Synchronization in Coded Systems,” IEEE Communications Letters, vol. 25, no. 1, pp. 113-116, Jan. 2021.
+  *     W. Yuan, C. Liu, F. Liu, **S. Li**, and D. W. K. Ng, “Learning-based Predictive Beamforming for UAV Communications with Jittering,” IEEE Wireless Communications Letters, vol. 9, no. 11, pp. 1970-1974, Nov. 2020.
+  *     J. Zhang, B. Bai, **S. Li**, M. Zhu, and H. Li, “Tail-Biting Globally-Coupled LDPC Codes,” IEEE Transactions on Communications, vol. 67, no. 12, pp. 8206-8219, Dec. 2019.
+  *     J. Zhang, B. Bai, M. Zhu, **S. Li**, and H. Li, “Protograph-based Globally-Coupled LDPC Codes over the Gaussian Channel with Burst Erasures,” IEEE Access, vol. 7, pp. 153853-153868, 2019.
 
