@@ -1,5 +1,5 @@
 ---
-title: "Telea4651"
+title: "Telea4651 - Wireless Communication Technologies"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/UNSW-TELE4651
