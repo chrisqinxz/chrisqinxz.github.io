@@ -24,9 +24,10 @@ My research interests include:
 
 <ul style="width: auto; height: 300px; overflow: auto">
   
-  <li> <b>[March, 2022]</b>. </li>
+  #<li> <b>[March, 2022]</b>. </li>
   
-  <li> <b>[June, 2021]</b>. </li>
+  <li> <b>[June, 2021]</b>. </li> I have received my Ph. D. degree from Xidian University.  
+  **Ph. D. dissertation topic:** Research on Faster-than-Nyquist Signaling
   
   
 </ul>
