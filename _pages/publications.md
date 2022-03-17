@@ -53,7 +53,7 @@ author_profile: true
   1.   W. Yuan, **S. Li**, Z. Wei, J. Yuan, and D. W. K. Ng, “Bypassing Channel Estimation for OTFS Transmission: An Integrated Sensing and Communication Solution,” in **IEEE Wireless Communications and Networking Conference (WCNC) Workshop**, Nanjing, China, 2021, pp. 1-6.
   1.   B. Liu, **S. Li**, Y. Xie, and J. Yuan, “Deep Learning Assisted Sum-Product Detection Algorithm for Faster-than-Nyquist Signaling,” in **IEEE Information Theory Workshop (ITW)**, Visby, Sweden, 2019, pp. 1-5.
   1.   M. Liu, **S. Li**, Q. Li, and B. Bai, “Faster-than-Nyquist Signaling Based Adaptive Modulation and Coding,” in **IEEE International Conference on Wireless Communications and Signal Processing (WCSP)**, Hangzhou, 2018, pp. 1-5.
-
+  1.   M. Liu, **S. Li**, Q. Li, and B. Bai, “Faster-than-Nyquist Signaling Based Adaptive Modulation and Coding,” in **IEEE International Conference on Wireless Communications and Signal Processing (WCSP)**, Hangzhou, 2018, pp. 1-5.
 
 
 ## Chinese Journal Papers ##
