@@ -60,5 +60,5 @@ author_profile: true
   1.   W. Yuan, **S. Li**<sup>*</sup>, R. Chong, B. Bai, and D. W. K. Ng, “A Distributed Decoding Algorithm for 6G Internet-of-Things Networks,” **Journal of Electronics and Information Technology**, vol. 43, no. 1, pp. 21-27, 2021.
   1.   M. Liu, J. Fang, R. Yuan, **S. Li**, and B. Bai, “Coded Modulation and Waveform Technology for 6G,” **Mobile Communications**, vol. 45, no. 4, pp. 21-28, 2021.
   1.   C. Si, M. Liu, **S. Li**, and B. Bai, “Faster-than-Nyquist Signaling for Space-Ground Communication,” **Radio Communications Technology**, vol. 47, no. 5, pp. 618-626, 2021.
-
+  1.   X. Tan, **S. Li**, B. Bai, and Z. Yu, “Performance of the Faster-than-Nyquist Transmission System Based on BMST,” **Radio Communications Technology**, vol. 44, no. 3, pp. 257-262, 2018.
 
