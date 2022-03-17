@@ -9,7 +9,8 @@ redirect_from:
 ---
 # <i class="fa fa-cog fa-fw"></i> About me #
 
-I am a fourth year Ph. D. candidate at School of Electrical Engineering and Telecommunications in University of New South Wales (UNSW).
+I am a fourth year Ph. D. candidate at School of Electrical Engineering and Telecommunications in University of New South Wales (UNSW), under the supervision of Professor [Jinhong Yuan](https://www.unsw.edu.au/staff/jinhong-yuan) and Professor [Derrick Wing Kwan Ng](http://www2.ee.unsw.edu.au/~derrick/) in the [Wireless Communication Lab](http://www2.ee.unsw.edu.au/wcl/index.html). I received the B.S., M.S., and Ph. D. degrees from Xidian University, Xi'an, China, in 2013, 2016, and 2021, respectively. My Ph. D. supervisor in Xidian University was Professor [Baoming Bai](https://web.xidian.edu.cn/bmbai/index.html).
+
 
 My research interests include:
 
