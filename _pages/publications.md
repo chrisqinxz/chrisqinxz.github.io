@@ -63,5 +63,3 @@ author_profile: true
   1.   C. Si, M. Liu, **S. Li**, and B. Bai, “Faster-than-Nyquist Signaling for Space-Ground Communication,” **Radio Communications Technology**, vol. 47, no. 5, pp. 618-626, 2021.
   1.   X. Tan, **S. Li**, B. Bai, and Z. Yu, “Performance of the Faster-than-Nyquist Transmission System Based on BMST,” **Radio Communications Technology**, vol. 44, no. 3, pp. 257-262, 2018.
 
-
-
