@@ -57,5 +57,5 @@ author_profile: true
 
 
 ## Chinese Journal Papers ##
-  1.   M. Liu, **S. Li**, Q. Li, and B. Bai, “Faster-than-Nyquist Signaling Based Adaptive Modulation and Coding,” in **IEEE International Conference on Wireless Communications and Signal Processing (WCSP)**, Hangzhou, 2018, pp. 1-5.
+  1.   abcd
 
