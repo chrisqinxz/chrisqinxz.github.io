@@ -54,3 +54,11 @@ author_profile: true
   1.   B. Liu, **S. Li**, Y. Xie, and J. Yuan, “Deep Learning Assisted Sum-Product Detection Algorithm for Faster-than-Nyquist Signaling,” in **IEEE Information Theory Workshop (ITW)**, Visby, Sweden, 2019, pp. 1-5.
   1.   M. Liu, **S. Li**, Q. Li, and B. Bai, “Faster-than-Nyquist Signaling Based Adaptive Modulation and Coding,” in **IEEE International Conference on Wireless Communications and Signal Processing (WCSP)**, Hangzhou, 2018, pp. 1-5.
 
+## Chinese Journal Papers ##
+  1.   **S. Li**, B. Bai, and X. Ma, “Faster-than-Nyquist Signaling: Status and Challenges,” **ACTA ELECTONICA SINICA**, vol. 48, no. 1, pp. 189-197, 2020.
+  1.   **S. Li**, L, Ping, B. Bai, and X. Ma, “Faster-than-Nyquist transmission based on multi-layer superposition,” **Journal on Communications**, vol. 38, no. 9, pp. 86-94, 2017.
+  1.   W. Yuan, **S. Li**<sup>*</sup>, R. Chong, B. Bai, and D. W. K. Ng, “A Distributed Decoding Algorithm for 6G Internet-of-Things Networks,” **Journal of Electronics and Information Technology**, vol. 43, no. 1, pp. 21-27, 2021.
+  1.   M. Liu, J. Fang, R. Yuan, **S. Li**, and B. Bai, “Coded Modulation and Waveform Technology for 6G,” **Mobile Communications**, vol. 45, no. 4, pp. 21-28, 2021.
+  1.   C. SI, M. Liu, **S. Li**, and B. Bai, “Faster-than-Nyquist Signaling for Space-Ground Communication,” **Radio Communications Technology**, vol. 47, no. 5, pp. 618-626, 2021.
+
+
