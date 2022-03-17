@@ -58,4 +58,5 @@ author_profile: true
 
 ## Chinese Journal Papers ##
   1.   **S. Li**, B. Bai, and X. Ma, “Faster-than-Nyquist Signaling: Status and Challenges,” **ACTA ELECTONICA SINICA**, vol. 48, no. 1, pp. 189-197, 2020.
+  2.   
 
