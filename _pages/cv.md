@@ -14,7 +14,7 @@ Education
 * B.S.  in Telecommunications Engineering, Xidian University, 2013
 * M.S.  in Informatioin and Telecommunications Engineering, Xidian University, 2016
 * Ph.D. in Communication and Information System, Xidian University, 2021  
-  * **Ph.D. Dissertation:** Research on Faster-than-Nyquist Signaling 
+  * **Ph.D. Dissertation:** [Research on Faster-than-Nyquist Signaling](https://github.com/Shuangyang-Li/Shuangyang-Li.github.io/raw/master/_publications/Shuangyang's%20thesis%20on%20FTN_signaling.pdf)
   
   
 Professional Activities
