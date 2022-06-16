@@ -22,6 +22,7 @@ Professional Activities
 * IEEE Member
 * Secretary and Founding Member of special interest group (SIG) for OTFS, IEEE ComSoc
 * Conference Technical Program Committee
+  * Special Session Co-chair of International Symposium on Wireless Communication Systems 2022, Special Session on Orthogonal Time Frequency Space (OTFS) Modulation for Wireless Communications, Hangzhou, China
   * TPC Co-chair of IEEE International Conference on Communications in China 2021, Workshop on Orthogonal Time Frequency Space Modulation (OTFS) for Reliable High-mobility Communications, Xiamen, China
   * TPC Co-chair of IEEE International Conference on Communication Technology 2021, Workshop on OTFS Modulation for Integrated Sensing and Communications, Tianjin, China
   * TPC member of IEEE International Conference on Communications (ICC) 2021, First Workshop on Orthogonal Time Frequency Space Modulation (OTFS) for 6G and Future High-mobility Communications, Montreal, Canada
