@@ -34,6 +34,7 @@ Professional Activities
   * IEEE Transactions on Wireless Communications
   * IEEE Transactions on Vehicular Technology
   * IEEE Transactions on Network Science and Engineering
+  * IEEE Wireless Communications
   * IEEE Communication Letters
   * IEEE Wireless Communication Letters
   * IEEE China Communications
