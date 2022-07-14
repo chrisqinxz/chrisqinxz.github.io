@@ -35,6 +35,7 @@ Professional Activities
   * IEEE Transactions on Vehicular Technology
   * IEEE Transactions on Green Communications and Networking
   * IEEE Transactions on Network Science and Engineering
+  * IEEE Internet of Things Journal
   * IEEE Wireless Communications
   * IEEE Communication Letters
   * IEEE Wireless Communication Letters
