@@ -27,7 +27,8 @@ My research interests include:
   <li> <b>[July, 2022]</b> </li> Our paper on <a href="https://ieeexplore.ieee.org/document/9724198"> ''A Novel ISAC Transmission Framework Based on Spatially-Spread Orthogonal Time Frequency Space Modulation''</a> has been selected as the feature article in <a href="https://www.comsoc.org/publications/blogs/selected-ideas-communications/introduction-blog-selected-ideas-communications"> IEEE JSAC Blog, July, 2022.</a>
   
   
-  <li> <b>[June, 2021]</b> </li> I have received my Ph.D. degree from Xidian University. More details on my Ph. D. dissertation can be found in the CV.
+  <li> <b>[June, 2021]</b> </li> I have received my Ph.D. degree from Xidian University. My Ph. D. dissertation can be downloaded <a href="https://github.com/Shuangyang-Li/Shuangyang-Li.github.io/raw/master/_publications/Shuangyang's%20thesis%20on%20FTN_signaling.pdf"> here</a>.
+  
   
 </ul>
 
