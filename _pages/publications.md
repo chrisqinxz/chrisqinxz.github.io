@@ -38,7 +38,7 @@ author_profile: true
 
 
 ## Conference Papers ##
-  1.  **S. Li**, J. Yuan, Paul Fitzpatrick, Taka Sakurai, and Giuseppe Caire, “Delay-Doppler Domain Tomlinson-Harashima Precoding for Downlink MU-MIMO OTFS Transmissions,” to appear in **IEEE Global Communications Conference**, Rio de Janeiro, Brazil, 2022, pp. 1-6.
+  1.  **S. Li**, J. Yuan, Paul Fitzpatrick, Taka Sakurai, and Giuseppe Caire, “Delay-Doppler Domain Tomlinson-Harashima Precoding for Downlink MU-MIMO OTFS Transmissions,” to appear in **IEEE Global Communications Conference (GlobeCom)**, Rio de Janeiro, Brazil, 2022, pp. 1-6.
   2.  **S. Li**, W. Yuan, J. Yuan, and Giuseppe Caire, “On the Potential of Spatially-Spread Orthogonal Time Frequency Space Modulation for ISAC Transmissions,” to appear in **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, Singapore, 2022, pp. 8722-8726. (Invited Paper)
   3.   **S. Li**, W. Yuan, Z. Wei, R. He, B. Ai, B. Bai, and J. Yuan, “A Tutorial to Orthogonal Time Frequency Space Modulation for Future Wireless Communications,” in **IEEE International Communication Conference in China (ICCC) Workshop**, Xiamen, China, 2021. pp. 439-443.
   4.   **S. Li**, J. Yuan, W. Yuan, Z. Wei, B. Bai, and D. W. K. Ng, “On the Performance of Coded OTFS Modulation over High-Mobility Channels,” in **IEEE International Conference on Communications (ICC) Workshop, Montreal**, Canada, 2021. pp. 1-6.
@@ -52,7 +52,7 @@ author_profile: true
   12.  Y. K. Enku, B. Bai, **S. Li**, M. Liu, and I. N. Tiba, “Deep-Learning Based Signal Detection for MIMO-OTFS Systems” to appear in **IEEE International Conference on Communications (ICC) Workshop**, Seoul, 2022.    
   13.  C. Liu, W. Yuan, **S. Li**, X. Liu, D. W. K. Ng, and Y. Li, “Predictive Beamforming for Integrated Sensing and Communication in Vehicular Networks: A Deep Learning Approach,” to appear in **IEEE International Conference on Communications (ICC)**, Seoul, 2022.
   14.  Z. Wei, W. Yuan, **S. Li**, J. Yuan, and D. W. K. Ng, “Performance Analysis and Window Design for Channel Estimation of OTFS Modulation,” in **IEEE International Conference on Communications (ICC)**, Montreal, Canada, 2021, pp. 1-5.
-  15.   Z. Wei, W. Yuan, **S. Li**, J. Yuan, and D. W. K. Ng, “A New Off-grid Channel Estimation Method with Sparse Bayesian Learning for OTFS Systems,” in **IEEE Global Communication Conference (GlobeCom)**, Madrid, Spain, 2021, pp. 1-7.
+  15.   Z. Wei, W. Yuan, **S. Li**, J. Yuan, and D. W. K. Ng, “A New Off-grid Channel Estimation Method with Sparse Bayesian Learning for OTFS Systems,” in **IEEE Global Communications Conference (GlobeCom)**, Madrid, Spain, 2021, pp. 1-7.
   16.   W. Yuan, **S. Li**, Z. Wei, J. Yuan, and D. W. K. Ng, “Bypassing Channel Estimation for OTFS Transmission: An Integrated Sensing and Communication Solution,” in **IEEE Wireless Communications and Networking Conference (WCNC) Workshop**, Nanjing, China, 2021, pp. 1-6.
   17.   B. Liu, **S. Li**, Y. Xie, and J. Yuan, “Deep Learning Assisted Sum-Product Detection Algorithm for Faster-than-Nyquist Signaling,” in **IEEE Information Theory Workshop (ITW)**, Visby, Sweden, 2019, pp. 1-5.
   18.   M. Liu, **S. Li**, Q. Li, and B. Bai, “Faster-than-Nyquist Signaling Based Adaptive Modulation and Coding,” in **IEEE International Conference on Wireless Communications and Signal Processing (WCSP)**, Hangzhou, 2018, pp. 1-5.
