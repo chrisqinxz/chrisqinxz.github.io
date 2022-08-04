@@ -29,9 +29,10 @@ Professional Activities
   * Special Session Co-chair of International Symposium on Wireless Communication Systems 2022, Special Session on Orthogonal Time Frequency Space (OTFS) Modulation for Wireless Communications, Hangzhou, China
   * TPC Co-chair of IEEE International Conference on Communications in China 2021, Workshop on Orthogonal Time Frequency Space Modulation (OTFS) for Reliable High-mobility Communications, Xiamen, China
   * TPC Co-chair of IEEE International Conference on Communication Technology 2021, Workshop on OTFS Modulation for Integrated Sensing and Communications, Tianjin, China
-  * TPC member of IEEE International Conference on Communications (ICC) 2021, First Workshop on Orthogonal Time Frequency Space Modulation (OTFS) for 6G and Future High-mobility Communications, Montreal, Canada
+  * TPC member of IEEE Wireless Communications and Networking Conference (WCNC) 2023, Glasgow, Scotland, UK 
   * TPC member of IEEE Wireless Communications and Networking Conference (WCNC) 2022, Workshop on Integrated Sensing and Communications: Toward Future Dual-Functional Network, Austin, USA
   * TPC member of IEEE International Conference on Communications (ICC) 2022, Workshop on OTFS and Delay-Doppler Signal Processing for 6G and Future High-Mobility Communications, Seoul, South Korea
+  * TPC member of IEEE International Conference on Communications (ICC) 2021, First Workshop on Orthogonal Time Frequency Space Modulation (OTFS) for 6G and Future High-mobility Communications, Montreal, Canada
 * **Reviewer for Journals**
   * IEEE Journal on Selected Areas in Communications
   * IEEE Transactions on Communications
