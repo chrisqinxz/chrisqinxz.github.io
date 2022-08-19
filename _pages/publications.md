@@ -39,7 +39,7 @@ author_profile: true
 
 ## Conference Papers ##
   1.  **S. Li**, J. Yuan, P. Fitzpatrick, T. Sakurai, and G. Caire, “Delay-Doppler Domain Tomlinson-Harashima Precoding for Downlink MU-MIMO OTFS Transmissions,” to appear in **IEEE Global Communications Conference (GlobeCom)**, Rio de Janeiro, Brazil, 2022, pp. 1-6.
-  2.  **S. Li**, W. Yuan, J. Yuan, and Giuseppe Caire, “On the Potential of Spatially-Spread Orthogonal Time Frequency Space Modulation for ISAC Transmissions,” to appear in **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, Singapore, 2022, pp. 8722-8726. (Invited Paper)
+  2.  **S. Li**, W. Yuan, J. Yuan, and Giuseppe Caire, “On the Potential of Spatially-Spread Orthogonal Time Frequency Space Modulation for ISAC Transmissions,” in **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, Singapore, 2022, pp. 8722-8726. (Invited Paper)
   3.   **S. Li**, W. Yuan, Z. Wei, R. He, B. Ai, B. Bai, and J. Yuan, “A Tutorial to Orthogonal Time Frequency Space Modulation for Future Wireless Communications,” in **IEEE International Communication Conference in China (ICCC) Workshop**, Xiamen, China, 2021. pp. 439-443.
   4.   **S. Li**, J. Yuan, W. Yuan, Z. Wei, B. Bai, and D. W. K. Ng, “On the Performance of Coded OTFS Modulation over High-Mobility Channels,” in **IEEE International Conference on Communications (ICC) Workshop, Montreal**, Canada, 2021. pp. 1-6.
   5.   **S. Li**, Z. Wei, W. Yuan, J. Yuan, B. Bai, and D. W. K. Ng, “On the Achievable Rates of Uplink NOMA with Asynchronized Transmission,” in **IEEE Wireless Communications and Networking Conference (WCNC)**, Nanjing, China, 2021, pp. 1-7.
