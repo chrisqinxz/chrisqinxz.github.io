@@ -42,6 +42,7 @@ Professional Activities
   * IEEE Transactions on Network Science and Engineering
   * IEEE Internet of Things Journal
   * IEEE Wireless Communications
+  * IEEE Communications Magazine
   * IEEE Communication Letters
   * IEEE Wireless Communication Letters
   * IEEE China Communications
