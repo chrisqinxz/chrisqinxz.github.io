@@ -23,6 +23,7 @@ My research interests include:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[August, 2022]</b> </li> I have received my Ph.D. degree from University of New South Wales (UNSW). My Ph. D. dissertation can be downloaded <a href="https://github.com/Shuangyang-Li/Shuangyang-Li.github.io/blob/master/_publications/Shuangyang's%20thesis%20on%20OTFS.pdf"> here</a>.
   
   <li> <b>[July, 2022]</b> </li> Our paper on <a href="https://ieeexplore.ieee.org/document/9724198"> ''A Novel ISAC Transmission Framework Based on Spatially-Spread Orthogonal Time Frequency Space Modulation''</a> has been selected as the feature article in <a href="https://www.comsoc.org/publications/blogs/selected-ideas-communications/exploring-potential-orthogonal-time-frequency-space-otfs-integrated-sensing-and-communication"> IEEE JSAC Blog, July, 2022.</a>
   
