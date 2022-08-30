@@ -15,7 +15,9 @@ Education
 * M.S.  in Informatioin and Telecommunications Engineering, Xidian University, 2016
 * Ph.D. in Communication and Information System, Xidian University, 2021  
   * **Ph.D. Dissertation:** [Research on Faster-than-Nyquist Signaling](https://github.com/Shuangyang-Li/Shuangyang-Li.github.io/raw/master/_publications/Shuangyang's%20thesis%20on%20FTN_signaling.pdf)
-  
+* Ph.D. in TeleCommunication Engineering, University of New South Wales, 2022  
+  * **Ph.D. Dissertation:** [Orthogonal Time Frequency Space (OTFS) Modulation for Wireless Communications](https://github.com/Shuangyang-Li/Shuangyang-Li.github.io/raw/master/_publications/Shuangyang's%20thesis%20on%20OTFS.pdf)  
+
   
 Professional Activities
 ======
