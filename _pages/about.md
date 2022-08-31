@@ -22,7 +22,7 @@ My research interests include:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[September, 2022]</b> </li> I have joined University of Western Australia (UWA) as a research associate. </a>.
+  <li> <b>[September, 2022]</b> </li> I have joined University of Western Australia (UWA) as a research associate. </a>
   
   <li> <b>[August, 2022]</b> </li> I have received my Ph.D. degree from University of New South Wales (UNSW). My Ph. D. dissertation can be downloaded <a href="https://github.com/Shuangyang-Li/Shuangyang-Li.github.io/raw/master/_publications/Shuangyang's%20thesis%20on%20OTFS.pdf"> here</a>.
   
