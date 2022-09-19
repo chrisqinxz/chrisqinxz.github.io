@@ -24,16 +24,17 @@ author_profile: true
   1. W. Yuan, **S. Li**<sup>*</sup>, L. Xiang, and D. W. K. Ng, “Distributed Estimation Framework for Beyond 5G Intelligent Vehicular Networks,” **IEEE Open Journal of Vehicular Technology**, vol. 1, pp. 190-214, Nov. 2020.
   1. C. Liu, W. Yuan, **S. Li**, X. Liu, D. W. K. Ng, and Y. Li, “Learning-based Predictive Beamforming for Integrated Sensing and Communication in Vehicular Networks,” **IEEE Journal on Selected Areas in Communications**,  vol. 40, no. 8, pp. 2317-2334, Aug., 2022.
   1. Z. Tie, J. Shi, Z. Li, **S. Li**, and W. Liang, “Security Performance Analysis for An OTFS-based Joint Unicast-Multicast Streaming System,” to appear in **IEEE Transactions on Communications**, 2022.
-  1. P. Kang, K. Cai, X. He, **S. Li**, and J. Yuan, “Generalized Mutual Information-Maximizing Quantized Decoding of LDPC Codes with Layered Scheduling,” **IEEE Transactions on Vehicular Technology**, vol. 71, no. 7, pp. 7258-7273, Jul. 2022.
-  1. M. Liu, **S. Li**, C. Zhang, B. Wang, and B. Bai, “Coded Orthogonal Time Frequency Space Modulation,” **ZTE Communications**, vol. 19, no. 4, pp. 54-62, Dec. 2021.
-  1. Y. K. Enku, B. Bai, F. Wan, C. U. Guyo, I. N. Tiba, C. Zhang, and **S. Li**, “Two-dimensional Convolutional Neural Network based Signal Detection for OTFS Systems,” **IEEE Wireless Communications Letters**, vol. 10, no. 11, pp.2514-2518, Nov. 2021.
-  1. W. Yuan, Z. Wei, **S. Li**, J. Yuan, and D. W. K. Ng, “Integrated Radar Sensing and Communication-assisted Orthogonal Time Frequency Space Transmission for Vehicular Networks,” **IEEE Journal of Selected Topics in Signal Processing**, vol. 15, no. 6, pp. 1515-1528, Nov. 2021.
-  1. Z. Wei, W. Yuan, **S. Li**, J. Yuan, B. Ganesh, R. Hadani, and L. Hanzo, “Orthogonal Time-Frequency Space Modulation: A Promising Next Generation Waveform,” **IEEE Wireless Communications**, vol. 28, no. 4, pp. 136-144, Aug. 2021.
-  1. Z. Wei, W. Yuan, **S. Li**, J. Yuan, and D. W. K. Ng, “Transmitter and Receiver Window Designs for Orthogonal Time Frequency Space Modulation,” **IEEE Transactions on Communications**, vol. 69, no. 4, pp. 2207-2223, Apr. 2021.
-  1. D. Shi, W. Yuan, **S. Li**, N. Wu, and D. W. K. Ng, “Cycle-Slip Detection and Correction for Carrier Phase Synchronization in Coded Systems,” **IEEE Communications Letters**, vol. 25, no. 1, pp. 113-116, Jan. 2021.
-  1. W. Yuan, C. Liu, F. Liu, **S. Li**, and D. W. K. Ng, “Learning-based Predictive Beamforming for UAV Communications with Jittering,” **IEEE Wireless Communications Letters**, vol. 9, no. 11, pp. 1970-1974, Nov. 2020.
-  1. J. Zhang, B. Bai, **S. Li**, M. Zhu, and H. Li, “Tail-Biting Globally-Coupled LDPC Codes,” **IEEE Transactions on Communications**, vol. 67, no. 12, pp. 8206-8219, Dec. 2019.
-  1. J. Zhang, B. Bai, M. Zhu, **S. Li**, and H. Li, “Protograph-based Globally-Coupled LDPC Codes over the Gaussian Channel with Burst Erasures,” **IEEE Access**, vol. 7, pp. 153853-153868, 2019.
+  2. C. Liu, X. Liu, **S. Li**, W. Yuan, and D. W. K. Ng, “Deep CLSTM for Predictive Beamforming in Integrated Sensing and Communication-enabled Vehicular Networks,” to appear in **Journal of Communications and Information Networks (JCIN)**, Sept., 2022.
+  3. P. Kang, K. Cai, X. He, **S. Li**, and J. Yuan, “Generalized Mutual Information-Maximizing Quantized Decoding of LDPC Codes with Layered Scheduling,” **IEEE Transactions on Vehicular Technology**, vol. 71, no. 7, pp. 7258-7273, Jul. 2022.
+  4. M. Liu, **S. Li**, C. Zhang, B. Wang, and B. Bai, “Coded Orthogonal Time Frequency Space Modulation,” **ZTE Communications**, vol. 19, no. 4, pp. 54-62, Dec. 2021.
+  5. Y. K. Enku, B. Bai, F. Wan, C. U. Guyo, I. N. Tiba, C. Zhang, and **S. Li**, “Two-dimensional Convolutional Neural Network based Signal Detection for OTFS Systems,” **IEEE Wireless Communications Letters**, vol. 10, no. 11, pp.2514-2518, Nov. 2021.
+  6. W. Yuan, Z. Wei, **S. Li**, J. Yuan, and D. W. K. Ng, “Integrated Radar Sensing and Communication-assisted Orthogonal Time Frequency Space Transmission for Vehicular Networks,” **IEEE Journal of Selected Topics in Signal Processing**, vol. 15, no. 6, pp. 1515-1528, Nov. 2021.
+  7. Z. Wei, W. Yuan, **S. Li**, J. Yuan, B. Ganesh, R. Hadani, and L. Hanzo, “Orthogonal Time-Frequency Space Modulation: A Promising Next Generation Waveform,” **IEEE Wireless Communications**, vol. 28, no. 4, pp. 136-144, Aug. 2021.
+  8. Z. Wei, W. Yuan, **S. Li**, J. Yuan, and D. W. K. Ng, “Transmitter and Receiver Window Designs for Orthogonal Time Frequency Space Modulation,” **IEEE Transactions on Communications**, vol. 69, no. 4, pp. 2207-2223, Apr. 2021.
+  9. D. Shi, W. Yuan, **S. Li**, N. Wu, and D. W. K. Ng, “Cycle-Slip Detection and Correction for Carrier Phase Synchronization in Coded Systems,” **IEEE Communications Letters**, vol. 25, no. 1, pp. 113-116, Jan. 2021.
+  10. W. Yuan, C. Liu, F. Liu, **S. Li**, and D. W. K. Ng, “Learning-based Predictive Beamforming for UAV Communications with Jittering,” **IEEE Wireless Communications Letters**, vol. 9, no. 11, pp. 1970-1974, Nov. 2020.
+  11. J. Zhang, B. Bai, **S. Li**, M. Zhu, and H. Li, “Tail-Biting Globally-Coupled LDPC Codes,” **IEEE Transactions on Communications**, vol. 67, no. 12, pp. 8206-8219, Dec. 2019.
+  12. J. Zhang, B. Bai, M. Zhu, **S. Li**, and H. Li, “Protograph-based Globally-Coupled LDPC Codes over the Gaussian Channel with Burst Erasures,” **IEEE Access**, vol. 7, pp. 153853-153868, 2019.
 
 
 
