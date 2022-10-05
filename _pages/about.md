@@ -22,7 +22,7 @@ My research interests include:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[October, 2022]</b> </li> I am co-organizing the Frontiers Research Topic on "<a href="https://www.frontiersin.org/research-topics/47411/delay-doppler-domain-communications-and-radar-sensing"> Delay-Doppler Domain Communications and Radar Sensing</a>". Paper submissions are welcomed.
+  <li> <b>[October, 2022]</b> </li> I am co-organizing the Frontiers Research Topic on "<a href="https://www.frontiersin.org/research-topics/47411/delay-doppler-domain-communications-and-radar-sensing">Delay-Doppler Domain Communications and Radar Sensing</a>". Paper submissions are welcomed.
   
   
   <li> <b>[September, 2022]</b> </li> I have joined University of Western Australia (UWA) as a research associate.
