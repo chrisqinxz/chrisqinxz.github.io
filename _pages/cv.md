@@ -23,7 +23,7 @@ Professional Activities
 ======
 * **IEEE Member**
 * **Secretary and Founding Member of special interest group (SIG) for OTFS**, IEEE ComSoc
-* **''2+1'' event of IEEE ComSoc Communication Theory Technical Committee (CTTC)**
+* ** ''2+1'' event of IEEE ComSoc Communication Theory Technical Committee (CTTC)**
   * Co-organizer of the ''2+1'' event on ''OTFS for Next-generation Wireless Communications'', IEEE ComSoc CTTC
 * **IEEE ComSoc Best Readings**
   * Co-author of Best Readings on Orthogonal Time Frequency Space (OTFS) and Delay Doppler Signal Processing, IEEE ComSoc
