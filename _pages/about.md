@@ -22,6 +22,12 @@ My research interests include:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[April, 2023]</b> </li> I am co-organizing the speical issue with Entropy on "<a href="https://www.mdpi.com/journal/entropy/special_issues/51K2RU21G0">Delay-Doppler Domain Communications for Future Wireless Networks</a>". Paper submissions are welcomed.
+  
+  <li> <b>[April, 2023]</b> </li> I have joined Technical University of Berlin (TU-Berlin) as a research assistant.  
+  
+  <li> <b>[February, 2023]</b> </li> I have been awarded the Marie Skłodowska-Curie Actions (MSCA) individual fellowship 2022.  
+  
   <li> <b>[October, 2022]</b> </li> I am co-organizing the Frontiers Research Topic on "<a href="https://www.frontiersin.org/research-topics/47411/delay-doppler-domain-communications-and-radar-sensing">Delay-Doppler Domain Communications and Radar Sensing</a>". Paper submissions are welcomed.
   
   
