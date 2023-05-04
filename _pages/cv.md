@@ -29,6 +29,9 @@ Professional Activities
   * Co-author of Best Readings on Orthogonal Time Frequency Space (OTFS) and Delay Doppler Signal Processing, IEEE ComSoc
 * **IEEE ComSoc Satellite and Space Communications Sector Newsletter**
   * Co-author of IEEE Newsletter in Nov. 2021, IEEE ComSoc, Satellite and Space Communications Sector
+* **Guest Editor**
+  * Leading Guest Editor for Special Issue, “Delay-Doppler Domain Communications for Future Wireless Networks”, Entropy, 2023
+  * Leading Guest Editor for Research Topic, “Delay-Doppler Domain Communications and Radar Sensing”, Frontiers in Communications and Networks, 2022
 * **Conference Technical Program Committee**
   * TPC Co-chair of IEEE International Conference on Communications in China (ICCC) 2023, Orthogonal Time Frequency Space Modulation (OTFS) for Reliable
 High-mobility Communications, Dalian, China
