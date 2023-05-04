@@ -30,6 +30,8 @@ Professional Activities
 * **IEEE ComSoc Satellite and Space Communications Sector Newsletter**
   * Co-author of IEEE Newsletter in Nov. 2021, IEEE ComSoc, Satellite and Space Communications Sector
 * **Conference Technical Program Committee**
+  * TPC Co-chair of IEEE International Conference on Communications in China (ICCC) 2023, Orthogonal Time Frequency Space Modulation (OTFS) for Reliable
+High-mobility Communications, Dalian, China
   * TPC Co-chair of IEEE Wireless Communications and Networking Conference (WCNC) 2023, Workshop on Delay-Doppler Communications, Sensing, and Their Integration, Glasgow, Scotland, UK
   * Special Session Co-chair of International Symposium on Wireless Communication Systems 2022, Special Session on Orthogonal Time Frequency Space (OTFS) Modulation for Wireless Communications, Hangzhou, China
   * TPC Co-chair of IEEE International Conference on Communications in China 2021, Workshop on Orthogonal Time Frequency Space Modulation (OTFS) for Reliable High-mobility Communications, Xiamen, China
