@@ -6,6 +6,7 @@ author_profile: true
 
 ---
 # <i class="fa fa-fw fa-trophy"></i> Awards
+* Marie Sklodowska-Curie Actions (MSCA), Individual Fellowship 2022.
 * Student Travel Grant, awarded by IEEE International Conference on Communications, 2021.
 * Tuition Fee Scholarship (2018-2022), awarded by the Graduate Research School of University of New South Wales (AUD 28,597 per year).
 * University First Prize Scholarship (2017), awarded by Xidian University.
