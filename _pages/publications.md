@@ -8,7 +8,7 @@ author_profile: true
 [* denotes the corresponding author]
 
 ## Journal Papers ##
-  1. S. Li, J. Yuan, P. Fitzpatrick, T. Sakurai, and G. Caire, ''Delay-Doppler Domain Tomlinson-Harashima Precoding for OTFS-based Downlink MU-MIMO
+  1. **S. Li**, J. Yuan, P. Fitzpatrick, T. Sakurai, and G. Caire, ''Delay-Doppler Domain Tomlinson-Harashima Precoding for OTFS-based Downlink MU-MIMO
 Transmissions: Linear Complexity Implementation and Scaling Law Analysis,'' **IEEE Transactions on Communications**, vol. 71, no. 4, pp. 2153-2169,
 Apr. 2023.
   2. **S. Li**, Z. Wei, W. Yuan, J. Yuan, B. Bai, D. W. K. Ng, and L. Hanzo, ''Faster-than-Nyquist Asynchronous NOMA Outperforms Synchronous NOMA,'' **IEEE Journal on Selected Areas in Communications**, vol. 40, no. 4, pp. 1128-1145, Apr. 2022.
@@ -23,25 +23,29 @@ Apr. 2023.
   11. **S. Li**, W. Yuan, Z. Wei, R. Schober, and G. Caire, “Orthogonal Time Frequency Space Modulation – Part II: Transceiver Designs,” **IEEE Communications Letters**, vol. 27, no. 1, pp. 9-13, Jan. 2023. (Invited Paper)
   12. Z. Wei, **S. Li**, W. Yuan, R. Schober, and G. Caire, “Orthogonal Time Frequency Space Modulation – Part I: Fundamentals and Challenges Ahead,” **IEEE Communications Letters**, vol. 27, no. 1, pp. 4-8, Jan. 2023. (Invited Paper)
   13. W. Yuan, Z. Wei, **S. Li**，R. Schober, and G. Caire, “Orthogonal Time Frequency Space Modulation – Part III: ISAC and Potential Directions,” to appear in **IEEE Communications Letters**, vol. 27, no. 1, pp. 14-18, Jan. 2023. (Invited Paper)
-  14. Q. Lu, **S. Li**, B. Bai, and J. Yuan, “Spatially-Coupled Faster-than-Nyquist Signaling: A Joint Solution to Detection and Code Design,” to appear in **IEEE Transactions on Communications**, 2022.
+  14. Q. Lu, **S. Li**, B. Bai, and J. Yuan, “Spatially-Coupled Faster-than-Nyquist Signaling: A Joint Solution to Detection and Code Design,” **IEEE Transactions on Communications**, vol. 71, no. 1, pp. 52-66, Jan. 2023.
   15. Z. Wei, W. Yuan, **S. Li**<sup>*</sup>, J. Yuan, and D. W. K. Ng, “Off-grid Channel Estimation with Sparse Bayesian Learning for OTFS Systems,”  **IEEE Transactions on Wireless Communications**, vol. 21, no. 9, pp. 7407-7426, Sept. 2022.
   16. W. Yuan, **S. Li**<sup>*</sup>, Z. Wei, J. Yuan, and D. W. K. Ng, “Data-Aided Channel Estimation for OTFS Systems with A Superimposed Pilot and Data Transmission Scheme,” **IEEE Wireless Communications Letters**, vol. 10, no. 9, pp. 1954-1958, Sept. 2021.
   17. B. Liu, **S. Li**<sup>*</sup> , Y. Xie, and J. Yuan, “A Novel Sum-Product Detection Algorithm for Faster-than-Nyquist Signaling: A Deep Learning Approach,” **IEEE Transactions on Communications**, vol. 69, no. 9, pp. 5975-5987, Sept. 2021.
-  18. R. Chong, **S. Li**<sup>*</sup>, J. Yuan, and D. W. K. Ng, “Achievable Rate Upper-Bounds of Uplink Multiuser OTFS Transmissions,” **IEEE Wireless Communications Letters**, vol. 11, no. 4, pp. 791-795, Apr. 2022.
-  19. W. Yuan, **S. Li**<sup>*</sup>, L. Xiang, and D. W. K. Ng, “Distributed Estimation Framework for Beyond 5G Intelligent Vehicular Networks,” **IEEE Open Journal of Vehicular Technology**, vol. 1, pp. 190-214, Nov. 2020.
-  20. C. Liu, W. Yuan, **S. Li**, X. Liu, D. W. K. Ng, and Y. Li, “Learning-based Predictive Beamforming for Integrated Sensing and Communication in Vehicular Networks,” **IEEE Journal on Selected Areas in Communications**,  vol. 40, no. 8, pp. 2317-2334, Aug., 2022.
-  21. Z. Tie, J. Shi, Z. Li, **S. Li**, and W. Liang, “Security Performance Analysis for An OTFS-based Joint Unicast-Multicast Streaming System,” **IEEE Transactions on Communications**, vol. 70, no. 10, pp. 6764-6777, Oct. 2022.
-  22. C. Liu, X. Liu, **S. Li**, W. Yuan, and D. W. K. Ng, “Deep CLSTM for Predictive Beamforming in Integrated Sensing and Communication-enabled Vehicular Networks,” to appear in **Journal of Communications and Information Networks (JCIN)**, Sept., 2022.
-  23. P. Kang, K. Cai, X. He, **S. Li**, and J. Yuan, “Generalized Mutual Information-Maximizing Quantized Decoding of LDPC Codes with Layered Scheduling,” **IEEE Transactions on Vehicular Technology**, vol. 71, no. 7, pp. 7258-7273, Jul. 2022.
-  24. M. Liu, **S. Li**, C. Zhang, B. Wang, and B. Bai, “Coded Orthogonal Time Frequency Space Modulation,” **ZTE Communications**, vol. 19, no. 4, pp. 54-62, Dec. 2021.
-  25. Y. K. Enku, B. Bai, F. Wan, C. U. Guyo, I. N. Tiba, C. Zhang, and **S. Li**, “Two-dimensional Convolutional Neural Network based Signal Detection for OTFS Systems,” **IEEE Wireless Communications Letters**, vol. 10, no. 11, pp.2514-2518, Nov. 2021.
-  26. W. Yuan, Z. Wei, **S. Li**, J. Yuan, and D. W. K. Ng, “Integrated Radar Sensing and Communication-assisted Orthogonal Time Frequency Space Transmission for Vehicular Networks,” **IEEE Journal of Selected Topics in Signal Processing**, vol. 15, no. 6, pp. 1515-1528, Nov. 2021.
-  27. Z. Wei, W. Yuan, **S. Li**, J. Yuan, B. Ganesh, R. Hadani, and L. Hanzo, “Orthogonal Time-Frequency Space Modulation: A Promising Next Generation Waveform,” **IEEE Wireless Communications**, vol. 28, no. 4, pp. 136-144, Aug. 2021.
-  28. Z. Wei, W. Yuan, **S. Li**, J. Yuan, and D. W. K. Ng, “Transmitter and Receiver Window Designs for Orthogonal Time Frequency Space Modulation,” **IEEE Transactions on Communications**, vol. 69, no. 4, pp. 2207-2223, Apr. 2021.
-  29. D. Shi, W. Yuan, **S. Li**, N. Wu, and D. W. K. Ng, “Cycle-Slip Detection and Correction for Carrier Phase Synchronization in Coded Systems,” **IEEE Communications Letters**, vol. 25, no. 1, pp. 113-116, Jan. 2021.
-  30. W. Yuan, C. Liu, F. Liu, **S. Li**, and D. W. K. Ng, “Learning-based Predictive Beamforming for UAV Communications with Jittering,” **IEEE Wireless Communications Letters**, vol. 9, no. 11, pp. 1970-1974, Nov. 2020.
-  31. J. Zhang, B. Bai, **S. Li**, M. Zhu, and H. Li, “Tail-Biting Globally-Coupled LDPC Codes,” **IEEE Transactions on Communications**, vol. 67, no. 12, pp. 8206-8219, Dec. 2019.
-  32. J. Zhang, B. Bai, M. Zhu, **S. Li**, and H. Li, “Protograph-based Globally-Coupled LDPC Codes over the Gaussian Channel with Burst Erasures,” **IEEE Access**, vol. 7, pp. 153853-153868, 2019.
+  18. J. Shi, Z. Li, J. Hu, Z. Tie, **S. Li**, W. Liang, and Z. Ding, “OTFS enabled LEO Satellite Communications: A Promising Solution to Severe Doppler Effects,” to appear in **IEEE Networks**, 2023.
+  19. C. Liu, **S. Li**, W. Yuan, X. Liu, and D. W. K. Ng, “Predictive Precoder Design for OTFS-Enabled URLLC: A Deep Learning Approach,” to appear in **IEEE Journal of Selected Topics in Communications**, 2023.
+  20. H. Wen, W. Yuan, Z. Liu, and **S. Li**, “OTFS-SCMA: A Downlink NOMA Scheme for Massive Connectivity in High Mobility Channels,” to appear in **IEEE
+Transactions on Wireless Communications**, Jan., 2023.
+  21. R. Chong, **S. Li**<sup>*</sup>, J. Yuan, and D. W. K. Ng, “Achievable Rate Upper-Bounds of Uplink Multiuser OTFS Transmissions,” **IEEE Wireless Communications Letters**, vol. 11, no. 4, pp. 791-795, Apr. 2022.
+  22. W. Yuan, **S. Li**<sup>*</sup>, L. Xiang, and D. W. K. Ng, “Distributed Estimation Framework for Beyond 5G Intelligent Vehicular Networks,” **IEEE Open Journal of Vehicular Technology**, vol. 1, pp. 190-214, Nov. 2020.
+  23. C. Liu, W. Yuan, **S. Li**, X. Liu, D. W. K. Ng, and Y. Li, “Learning-based Predictive Beamforming for Integrated Sensing and Communication in Vehicular Networks,” **IEEE Journal on Selected Areas in Communications**,  vol. 40, no. 8, pp. 2317-2334, Aug., 2022.
+  24. Z. Tie, J. Shi, Z. Li, **S. Li**, and W. Liang, “Security Performance Analysis for An OTFS-based Joint Unicast-Multicast Streaming System,” **IEEE Transactions on Communications**, vol. 70, no. 10, pp. 6764-6777, Oct. 2022.
+  25. C. Liu, X. Liu, **S. Li**, W. Yuan, and D. W. K. Ng, “Deep CLSTM for Predictive Beamforming in Integrated Sensing and Communication-enabled Vehicular Networks,” to appear in **Journal of Communications and Information Networks (JCIN)**, Sept., 2022.
+  26. P. Kang, K. Cai, X. He, **S. Li**, and J. Yuan, “Generalized Mutual Information-Maximizing Quantized Decoding of LDPC Codes with Layered Scheduling,” **IEEE Transactions on Vehicular Technology**, vol. 71, no. 7, pp. 7258-7273, Jul. 2022.
+  27. M. Liu, **S. Li**, C. Zhang, B. Wang, and B. Bai, “Coded Orthogonal Time Frequency Space Modulation,” **ZTE Communications**, vol. 19, no. 4, pp. 54-62, Dec. 2021.
+  28. Y. K. Enku, B. Bai, F. Wan, C. U. Guyo, I. N. Tiba, C. Zhang, and **S. Li**, “Two-dimensional Convolutional Neural Network based Signal Detection for OTFS Systems,” **IEEE Wireless Communications Letters**, vol. 10, no. 11, pp.2514-2518, Nov. 2021.
+  29. W. Yuan, Z. Wei, **S. Li**, J. Yuan, and D. W. K. Ng, “Integrated Radar Sensing and Communication-assisted Orthogonal Time Frequency Space Transmission for Vehicular Networks,” **IEEE Journal of Selected Topics in Signal Processing**, vol. 15, no. 6, pp. 1515-1528, Nov. 2021.
+  30. Z. Wei, W. Yuan, **S. Li**, J. Yuan, B. Ganesh, R. Hadani, and L. Hanzo, “Orthogonal Time-Frequency Space Modulation: A Promising Next Generation Waveform,” **IEEE Wireless Communications**, vol. 28, no. 4, pp. 136-144, Aug. 2021.
+  31. Z. Wei, W. Yuan, **S. Li**, J. Yuan, and D. W. K. Ng, “Transmitter and Receiver Window Designs for Orthogonal Time Frequency Space Modulation,” **IEEE Transactions on Communications**, vol. 69, no. 4, pp. 2207-2223, Apr. 2021.
+  32. D. Shi, W. Yuan, **S. Li**, N. Wu, and D. W. K. Ng, “Cycle-Slip Detection and Correction for Carrier Phase Synchronization in Coded Systems,” **IEEE Communications Letters**, vol. 25, no. 1, pp. 113-116, Jan. 2021.
+  33. W. Yuan, C. Liu, F. Liu, **S. Li**, and D. W. K. Ng, “Learning-based Predictive Beamforming for UAV Communications with Jittering,” **IEEE Wireless Communications Letters**, vol. 9, no. 11, pp. 1970-1974, Nov. 2020.
+  34. J. Zhang, B. Bai, **S. Li**, M. Zhu, and H. Li, “Tail-Biting Globally-Coupled LDPC Codes,” **IEEE Transactions on Communications**, vol. 67, no. 12, pp. 8206-8219, Dec. 2019.
+  35. J. Zhang, B. Bai, M. Zhu, **S. Li**, and H. Li, “Protograph-based Globally-Coupled LDPC Codes over the Gaussian Channel with Burst Erasures,” **IEEE Access**, vol. 7, pp. 153853-153868, 2019.
 
 
 
