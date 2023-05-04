@@ -6,10 +6,10 @@ author_profile: true
 
 ---
 # <i class="fa fa-fw fa-trophy"></i> Fellowship:
-* Marie Sklodowska-Curie Actions (MSCA), Individual Fellowship 2022 (Total Funding: Euro 173,847.36).
+* Marie Sklodowska-Curie Actions (MSCA), Individual Fellowship 2022 (Total Budget: Euro 173,847.36).
 
 # <i class="fa fa-fw fa-trophy"></i> Publication Awards:
-* Best paper award, award by IEEE Wireless Communications and Networking Conference (WCNC) 2023, Soctland, UK.
+* Best paper award, award by IEEE Wireless Communications and Networking Conference (WCNC) 2023, Scotland, UK.
 * Outstanding paper award, award by information theory session of Chinese Insititute of Electronics in 2017 (CIEIT 2017), Shenzhen, China.
 
 # <i class="fa fa-fw fa-trophy"></i> Awards from Professional Engagement:
