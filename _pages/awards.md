@@ -10,6 +10,7 @@ author_profile: true
 
 # <i class="fa fa-fw fa-trophy"></i> Publication Awards:
 * Best paper award, award by IEEE Wireless Communications and Networking Conference (WCNC) 2023, Scotland, UK.
+* Best paper award, award by IEEE Communications Conference (ICC) 2023, Rome, Italy.
 * Outstanding paper award, award by information theory session of Chinese Insititute of Electronics in 2017 (CIEIT 2017), Shenzhen, China.
 
 # <i class="fa fa-fw fa-trophy"></i> Awards from Professional Engagement:
