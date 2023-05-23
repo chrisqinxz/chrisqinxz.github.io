@@ -32,6 +32,9 @@ Professional Activities
 * **Guest Editor**
   * Leading Guest Editor for Special Issue, “Delay-Doppler Domain Communications for Future Wireless Networks”, Entropy, 2023
   * Leading Guest Editor for Research Topic, “Delay-Doppler Domain Communications and Radar Sensing”, Frontiers in Communications and Networks, 2022
+* **Tutorials**
+  * Co-presenter, “Tutorial -Delay-Doppler Domain Communications and Sensing”, IEEE International Conference on Communications (ICC), Rome, Jun., 2023.
+  * Co-presenter, “Tutorial -Orthogonal Time Frequency Space Modulation: Waveform for Future Wireless Networks”, IEEE Conference on Vehicular Technology (VTC) Spring, Virtual, Jun., 2022.
 * **Conference Technical Program Committee**
   * TPC Co-chair of IEEE International Conference on Communications in China (ICCC) 2023, Orthogonal Time Frequency Space Modulation (OTFS) for Reliable
 High-mobility Communications, Dalian, China
