@@ -9,14 +9,16 @@ redirect_from:
 ---
 # <i class="fa fa-cog fa-fw"></i> About me #
 
-I am a research assistant with the Faculty of Electrical Engineering and Computer Science in Technical University of Berlin (TU-Berlin), under the supervision of Professor [Giuseppe Caire](https://www.tu.berlin/commit). Priori to that, I was a research associate at School of Engineering in University of Western Australia (UWA), under the supervision of Professor [David Huang](https://research-repository.uwa.edu.au/en/persons/david-huang). I have received my B.S., M.S., and Ph. D. degrees from Xidian University, Xi'an, China, in 2013, 2016, and 2021, respectively. My Ph. D. supervisor in Xidian University was Professor [Baoming Bai](https://web.xidian.edu.cn/bmbai/index.html). Additionally, I have received my second Ph. D. degree from University of New South Wales (UNSW), Sydney, Australia, in 2022. My Ph. D. supervisors in UNSW were Professor [Jinhong Yuan](https://www.unsw.edu.au/staff/jinhong-yuan) and Professor [Derrick Wing Kwan Ng](http://www2.ee.unsw.edu.au/~derrick/). I was a member of the [Wireless Communication Lab](http://www2.ee.unsw.edu.au/wcl/index.html) at UNSW.  
 
-My research interests include:
+I am a senior R&D engineer with Huawei Technologies AB, Sweden. From Oct. 2021 to April. 2022, I was the experienced algorithm developer in Ericsson AB, Sweden. From Aug. 2020 to Sep. 2021, I was a Postdocal Fellow at Haifa University, Haifa, Israel, under the supervision of Prof. [Roee Diamant](https://sites.google.com/edu.haifa.ac.il/anl/personnel?authuser=0). I receveid my Ph.D from Zhejiang University, Hangzhou, China, in 2020, under the supervision of Prof. [Fengzhong Qu](https://person.zju.edu.cn/jimqufz). From Nov. 2018 to Nov. 2019, I was the research asistant at Lehigh University, PA, United States, under the supervision of Prof. [Yahong Rosa Zheng](https://www.lehigh.edu/~yrz218/). 
 
-* Orthogonal Time Frequency Space Modulation
-* Waveform Design
-* Channel Coding
-* Applied Information Theory
+My research focuses on how to use Bayesian theory and AI to improve the capability of 
+signal detection and estimation process that will determine the KPI of wireless \& 
+underwater acoustic (UWA)
+communications. Recently, I made efforts in the exploration of Bayesian-driven 
+deep learning methodologies to standardize the 5.5G's architecture from baseband 
+receiver design to radio digital pre-distortion (DPD). I'm also self-motivated
+to pioneer the potential technologies that will contribute to 6G. 
 
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
