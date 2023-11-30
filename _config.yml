@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shuangyang Li"
+title                    : "Xiangzhao Qin"
 title_separator          : "-"
-name                     : &name "Shuangyang Li"
+name                     : &name "Xiangzhao Qin"
 description              : &description "Ph.D."
-url                      : https://Shuangyang-Li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chrisqinxz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Shuangyang-Li.github.io"
+repository               : "chrisqinxz.github.io"
 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shuangyang Li"
+  name             : "Xiangzhao Qin"
   avatar           : "profile_Shuangyang1.png"
-  bio              : "Ph.D., University of New South Wales (UNSW)"
-  location         : "Berlin, Germany"
-  employer         : "Technical University of Berlin"
-  googlescholar    : "https://scholar.google.com/citations?user=ZNBcLIkAAAAJ&hl=en"
-  email            : "shuangyang.li@tu-berlin.de"
+  bio              : "Ph.D., Zhejiang University"
+  location         : "Lund, Sweden"
+  employer         : "Huawei Technologies AB, Sweden"
+  googlescholar    : "https://scholar.google.com/citations?user=YAKpp8wAAAAJ&hl=en"
+  email            : "chrisqin@huawei.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -92,14 +92,14 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "shuangyang-li"
+  github           : "chrisqinxz"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
   linkedin         : 
-  orcid            : https://orcid.org/0000-0002-9503-4865
-  researchgate     : https://www.researchgate.net/profile/Shuangyang-Li-2
+  orcid            : https://orcid.org/0000-0001-5300-0598
+  researchgate     : https://www.researchgate.net/profile/Xiangzhao-Qin
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
